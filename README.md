@@ -1,4 +1,4 @@
-# LLE_projekt
+# LLE Projekt repo
 
 Ez a repository Kerekes Annamária és Balog Benedek Zsolt által késtzített LLE Projekthez tartozó ábrák és páldakódok céljából készült.
 
